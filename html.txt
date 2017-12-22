@@ -1,0 +1,13 @@
+HyperText MarkUp Language(HTML) web sehifeler ucun esas gostericidir.
+HTML5 HTML in versiyasidir.
+HTML5 de bir cox ferq var.
+HTML ve HTML 5 arasindaki esas ferq video ve audio HTML-nin terkib 
+hissesi olmadigi ve HTML5 terkib hissesidir.
+HTML5 daha uygun, guclu ve inkisaf etmis terefdaslari ile kontrast kimi 
+inkisaf edir.
+HTML, web ucun ciddi inkisaf etmis ilk Internet-esasli dildir.
+ Brauzerde gosterilen her sey HTML vasitesile teskil olunur
+Esas HTML formatlasdirma senedinin yaradildigi zaman bir saytin butun diger dinamik aspektleri bu faylya daxil edile biler, meselen,
+ interaktivliyi elave etmek ucun bir JavaScript proqrami, saytin veritabanina birlesdiren server terefli skriptleri ve uslub elave eden
+ CSS fayllari elementleri.
+ Bu fayllar butun HTML faylindan kenarlasdirila biler ve bu, saytin esas mekanina benzeyir.
